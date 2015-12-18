@@ -1,0 +1,11 @@
+{
+    "name": "sgtest/antlr-php-namespace-in-extends",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lib\\": "Lib/"
+        }
+    }
+}
